@@ -12,13 +12,13 @@ Pour les premiers exercices que vous réaliserez sur cette interface il est uniq
 Vous serez donc dans le contexte présenté ci-après :
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 	<head>
 		<meta charset="UTF-8">
-		<title>Titre de page</title>
+		<title>Titre de la page</title>
 	</head>
 	<body>
-		//Votre code se trouvera ici.
+		// Votre code se trouvera ici.
 	</body>
 </html>
 ```
